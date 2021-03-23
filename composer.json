@@ -1,5 +1,5 @@
 {
-    "name": "webbinaro/flarum-ext-fancybox",
+    "name": "squeevee/flarum-ext-fancybox",
     "description": "Image formatting (inline images) and lightbox modal using FancyBox. (see https://fancyapps.com/fancybox)",
     "type": "flarum-extension",
     "require": {
